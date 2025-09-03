@@ -9,7 +9,7 @@ const jost = Jost({
 
 export const metadata: Metadata = {
   title: "Solemate",
-  description: "An e-commerce platform for Nike shoes",
+  description: "A modern e-commerce platform specializing in stylish footwear and fashion.",
   icons: {
     icon: "/images/logo.png",
   },
